@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1601476522 source:c:\users\notebook\control-de-franquicias\admarchivos.cpp
+	"AdmArchivos.h"
+
+1601475110 c:\users\notebook\control-de-franquicias\admarchivos.h
+	"Sucursal.h"
+	"Provincia.h"
+	"CasaMatriz.h"
+	"ListaSucursal.h"
+	"ListaProvincia.h"
+	"ListaCasaMatriz.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<iomanip>
+
+1601475110 c:\users\notebook\control-de-franquicias\sucursal.h
+
+1601475110 c:\users\notebook\control-de-franquicias\provincia.h
+
+1601475110 c:\users\notebook\control-de-franquicias\casamatriz.h
+
+1601475110 c:\users\notebook\control-de-franquicias\listasucursal.h
+	"Sucursal.h"
+	"Provincia.h"
+
+1601475110 c:\users\notebook\control-de-franquicias\listaprovincia.h
+	"Provincia.h"
+	"ListaSucursal.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1601475110 c:\users\notebook\control-de-franquicias\listacasamatriz.h
+	"CasaMatriz.h"
+	"ListaSucursal.h"
+	<iomanip>
+	<cstring>
+	<iostream>
+
+1601475110 source:c:\users\notebook\control-de-franquicias\listacasamatriz.cpp
+	"ListaCasaMatriz.h"
+
+1601475110 source:c:\users\notebook\control-de-franquicias\listaprovincia.cpp
+	"ListaProvincia.h"
+
+1601475110 source:c:\users\notebook\control-de-franquicias\listasucursal.cpp
+	"ListaSucursal.h"
+
+1601475110 source:c:\users\notebook\control-de-franquicias\main.cpp
+	<iostream>
+	"AdmArchivos.h"
+
+1601475110 source:c:\users\notebook\control-de-franquicias\provincia.cpp
+	"Provincia.h"
+	<iostream>
+	<string.h>
+
+1601475110 source:c:\users\notebook\control-de-franquicias\sucursal.cpp
+	"Sucursal.h"
+	<cctype>
+	<string.h>
+
+1601476522 source:c:\users\notebook\desktop\control-de-franquicias\admarchivos.cpp
+	"AdmArchivos.h"
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\admarchivos.h
+	"Sucursal.h"
+	"Provincia.h"
+	"CasaMatriz.h"
+	"ListaSucursal.h"
+	"ListaProvincia.h"
+	"ListaCasaMatriz.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<iomanip>
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\sucursal.h
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\provincia.h
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\casamatriz.h
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\listasucursal.h
+	"Sucursal.h"
+	"Provincia.h"
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\listaprovincia.h
+	"Provincia.h"
+	"ListaSucursal.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1601475110 c:\users\notebook\desktop\control-de-franquicias\listacasamatriz.h
+	"CasaMatriz.h"
+	"ListaSucursal.h"
+	<iomanip>
+	<cstring>
+	<iostream>
+
+1601475110 source:c:\users\notebook\desktop\control-de-franquicias\listacasamatriz.cpp
+	"ListaCasaMatriz.h"
+
+1601475110 source:c:\users\notebook\desktop\control-de-franquicias\listaprovincia.cpp
+	"ListaProvincia.h"
+
+1601475110 source:c:\users\notebook\desktop\control-de-franquicias\listasucursal.cpp
+	"ListaSucursal.h"
+
+1601475110 source:c:\users\notebook\desktop\control-de-franquicias\main.cpp
+	<iostream>
+	"AdmArchivos.h"
+
+1601475110 source:c:\users\notebook\desktop\control-de-franquicias\provincia.cpp
+	"Provincia.h"
+	<iostream>
+	<string.h>
+
+1601475110 source:c:\users\notebook\desktop\control-de-franquicias\sucursal.cpp
+	"Sucursal.h"
+	<cctype>
+	<string.h>
+
