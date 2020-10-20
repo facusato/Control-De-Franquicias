@@ -47,9 +47,16 @@ void cargarSucursales(ListaSucursal &listaSucursal,ListaProvincia &listaProvinci
                 //casa matriz
                 getline(archivo, linea);
                 ss.str(linea);
-                setCasaMatriz(sucursal, atoi(linea.c_str()));
-                setIdCasaMatriz(casaMatriz,atoi(linea.c_str()));
-                ss.clear();
+                    if(atoi(linea.c_str())==0){
+                        setCasaMatriz(sucursal,sucursal.codSucursal);
+                        setIdCasaMatriz(casaMatriz,sucursal.codSucursal);
+                    }
+                    else{
+                        setCasaMatriz(sucursal, atoi(linea.c_str()));
+                        setIdCasaMatriz(casaMatriz,atoi(linea.c_str()));
+                        ss.clear();
+                    }
+
 
                 setIdProvincia(provincia,idProvincia);
                 if(listaVaciaProvincia(listaProvincia) == true){

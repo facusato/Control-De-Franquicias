@@ -329,5 +329,4 @@ void obtenerListaProvinciaConTotalMontoFacturacion(ListaSucursal &listaSucursal,
 */
 void obtenerListaProvinciaConTotalArticulosVendidos(ListaSucursal &listaSucursal,ListaProvincia &listaProvincia);
 
-
 #endif // LISTAPROVINCIA_H_INCLUDED
