@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1601476522 source:c:\users\notebook\control-de-franquicias\admarchivos.cpp
+1603211747 source:c:\users\notebook\control-de-franquicias\admarchivos.cpp
 	"AdmArchivos.h"
 
 1601475110 c:\users\notebook\control-de-franquicias\admarchivos.h
@@ -24,13 +24,13 @@
 
 1601475110 c:\users\notebook\control-de-franquicias\provincia.h
 
-1601475110 c:\users\notebook\control-de-franquicias\casamatriz.h
+1603208567 c:\users\notebook\control-de-franquicias\casamatriz.h
 
 1601475110 c:\users\notebook\control-de-franquicias\listasucursal.h
 	"Sucursal.h"
 	"Provincia.h"
 
-1601475110 c:\users\notebook\control-de-franquicias\listaprovincia.h
+1603208581 c:\users\notebook\control-de-franquicias\listaprovincia.h
 	"Provincia.h"
 	"ListaSucursal.h"
 	<cstring>
@@ -134,4 +134,7 @@
 	"Sucursal.h"
 	<cctype>
 	<string.h>
+
+1601477248 source:c:\users\notebook\control-de-franquicias\casamatriz.cpp
+	"CasaMatriz.h"
 

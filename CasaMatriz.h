@@ -72,10 +72,4 @@ RETORNO: Devuelve el rendimiento de la casaMatriz.
 */
 float getRendimiento(CasaMatriz &casaMatriz);
 
-
-
-
-
-
-
 #endif // CASAMATRIZ_H_INCLUDED
