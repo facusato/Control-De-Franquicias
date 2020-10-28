@@ -15,31 +15,31 @@ void cargarSucursales(ListaSucursal &listaSucursal,ListaProvincia &listaProvinci
             while(archivo.good()){
 
                 //Codigo de la Sucursal
-                getline(archivo, linea, ';');
+                getline(archivo, linea, '-');
                 ss.str(linea);
                 setCodSucursal(sucursal, atoi(linea.c_str()));
                 ss.clear();
 
                 //Nombre de la Provincia
-                getline(archivo, linea, ';');
+                getline(archivo, linea, '-');
                 strcpy(sucursal.nombreProvincia,linea.c_str());
                 strcpy(provincia.nombreProvincia,linea.c_str());
                 ss.clear();
 
                 //cantidad de articulos vendidos
-                getline(archivo, linea, ';');
+                getline(archivo, linea, '-');
                 ss.str(linea);
                 setCantArticulosVendidos(sucursal, atoi(linea.c_str()));
                 ss.clear();
 
                 //Monto de facturacion
-                getline(archivo, linea, ';');
+                getline(archivo, linea, '-');
                 ss.str(linea);
                 setMontoFacturacion(sucursal,atof(linea.c_str()));
                 ss.clear();
 
                 //m2
-                getline(archivo, linea,';');
+                getline(archivo, linea,'-');
                 ss.str(linea);
                 setM2(sucursal, atoi(linea.c_str()));
                 ss.clear();
